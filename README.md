@@ -1,2 +1,1 @@
-# Briques
- Jeu de briques 
+Projet personnel en cours
